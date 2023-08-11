@@ -3,10 +3,30 @@
     "https://github.com/l8gravely/helloWorld_l8gravely.git": [
       "https://github.com/l8gravely/helloWorld_l8gravely.git",
       "1691714696504"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "1691715534485"
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
+  },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
     "https://github.com/l8gravely/helloWorld_l8gravely.git:helloWorld.groovy": [
       "https://github.com/l8gravely/helloWorld_l8gravely.git",
       "helloWorld.groovy"
